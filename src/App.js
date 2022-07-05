@@ -35,7 +35,6 @@ function App() {
     ];
     return (
         <div className="App flex flex-col items-center bg-white-500">
-            <div className="overlay"></div>
             <header>
                 <h1 className="text-2xl font-bold my-6 text-white">Avengers</h1>
             </header>
