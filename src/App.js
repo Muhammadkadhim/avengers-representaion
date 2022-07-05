@@ -36,7 +36,7 @@ function App() {
     return (
         <div className="App flex flex-col items-center bg-white-500">
             <header>
-                <h1 className="text-2xl font-bold my-6 text-white">Avengers</h1>
+                <h1 className="text-2xl font-bold my-6">Avengers</h1>
             </header>
             {avengers.map((member, index) => {
                 return (
