@@ -1,5 +1,4 @@
 import UserCard from "./components/UserCard";
-import avatar from "./images/avatar.png";
 function App() {
     const avengers = [
         {
